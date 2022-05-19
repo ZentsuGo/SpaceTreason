@@ -24,6 +24,6 @@ Fenêtre d'introduction au jeu :
 
 Niveaux de difficultés divers :
 
-![alt text](https://github.com/zentsugo/SpaceTreason/blob/main/spacetreason_beginninglevel.PNG)
+![alt text](https://github.com/zentsugo/SpaceTreason/blob/main/spacetreason_beginninglevel.png)
 
-![alt text](https://github.com/zentsugo/SpaceTreason/blob/main/spacetreason_endlevel.PNG)
+![alt text](https://github.com/zentsugo/SpaceTreason/blob/main/spacetreason_endlevel.png)
