@@ -1,5 +1,5 @@
 # SpaceTreason
-est un petit jeu en 2 dimensions afin de se familier avec la librairie LibGDX.
+est un petit jeu en 2 dimensions afin de se familiariser avec la librairie LibGDX.
 On incarne un vaisseau spatial dans un univers qui tourne en boucle et qui doit accomplir le plus haut score possible,
 c'est un shooter (jeu de tir) en 2 dimensions qui se compose d'un niveau de difficulté progressif.
 
