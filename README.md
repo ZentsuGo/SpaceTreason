@@ -11,6 +11,8 @@ La difficulté croissante donne également au joueur un tir plus adapté avec le
 En plus de cela le joueur augmente son score en détruisant des vaisseaux ennemis et comètes.
 
 Le jeu a été réalisé avec la librairie LibGDX en Java basé sur une partie du framework OpenGL développé en C++.
+Le jeu se joue en maintenant la touche espace pour tirer des balles en continu, on se déplace avec les flèches.
+La touche w permet de tirer une balle à tête chercheuse.
 
 Démonstration du jeu :
 (cliquez sur le gif pour revoir au début)
